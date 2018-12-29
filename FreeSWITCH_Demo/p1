@@ -2,3 +2,6 @@ day1 2018.12.27
 
 Learning takes times, especially RTC and VoIP.In fact, we recommend that you read this chapter more than once.Absorb as much as you can on the first pass,then come back after you complete P6,XML Dialplan.
 需要花点时间学习，特别是RTC和VoIP。事实上，我们建议你多读几次。当然你可以第一次越过，当你完成第6章时候再回头来学习.
+You will be surprised at how much your understanding of FreeSWITCH has improved. 
+Then come back and skim it a third time after you have completed Chapter 10,Dialplan, Directory, and ALL via XML_CURL and Scripts; 
+at this point, you will have a firm grasp of FreeSWITCH concepts. Give yourself time to digest all of these new concepts, and soon you will find that you are a skilled FreeSWITCH administrator
